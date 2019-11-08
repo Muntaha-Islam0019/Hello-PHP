@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="English">
+<html lang="en">
 <body>
 
 <h1>
