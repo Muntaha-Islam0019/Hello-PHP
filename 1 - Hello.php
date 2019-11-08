@@ -9,7 +9,10 @@
 
 <?php
 
-    // In PHP, no keywords are case-sensitive. So, echo & EcHO are same!
+    /* In PHP, no keywords are case-sensitive. So, echo & EcHO are same!
+     * However, variable names are case sensitive. This portion will be
+     * conveyed in upcoming codes.
+     */
     echo "Hello world!<br>";
 
     /* Also, remember not to put comments outside the <php> tag.
