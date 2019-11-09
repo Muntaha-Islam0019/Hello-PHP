@@ -3,7 +3,7 @@
 <body>
 
 <h1>
-    Hello PHP!
+    Hello PHP
 </h1>
 
 

@@ -3,7 +3,7 @@
 <body>
 
 <h3>
-    Variables in PHP.
+    Variables in PHP
 </h3>
 
 <?php
