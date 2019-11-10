@@ -18,6 +18,9 @@
     /* Also, remember not to put comments outside the <php> tag.
      * Or, it'd treated as a HTML syntax and will be printed.
      */
+
+    // This is used for finding out the data type and the value itself.
+    var_dump("Hello World!");
 ?>
 
 </body>
